@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:58:42.274555
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 13:36
 #+TITLE: 大乘義章
 #+PROPERTY: CBETA_ID T44n1851
 #+PROPERTY: ID KR6n0122
@@ -17,7 +17,7 @@
 
 淨法聚因中¶
 
-204賢聖義(一七本末)
+*** 204賢聖義(一七本末)
 :PROPERTIES:
 :head: 賢聖義二門分別(一釋名　二辨相)
 :END:
